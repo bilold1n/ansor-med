@@ -40,9 +40,11 @@ nav {
 }
 .nav-item:hover {
   color: #ff7500;
+  cursor: pointer;
 }
 .nav-item1:hover {
   color: #ff7500;
+  cursor: pointer;
 }
 .hero {
   background: #0eb4c1;
