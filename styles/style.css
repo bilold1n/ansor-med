@@ -38,6 +38,12 @@ nav {
   letter-spacing: 2px;
   text-transform: uppercase;
 }
+.nav-item:hover {
+  color: #ff7500;
+}
+.nav-item1:hover {
+  color: #ff7500;
+}
 .hero {
   background: #0eb4c1;
   padding: 40px 0;
